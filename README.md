@@ -4,7 +4,7 @@
 
 This website allows you to upload a WhatsApp chat log and view its contents.
 You can upload a `txt` directly or a `zip` file containing the exported chat.  
-In case you export a `zip` file with the option `Attach Media`, you will be able to see images, videos and audio files directly in the website. Try it out by downloading the [example chat](https://github.com/Pustur/whatsapp-chat-parser-website/blob/master/src/assets/whatsapp-chat-parser-example.zip)!
+In case you export a `zip` file with the option `Attach Media`, you will be able to see images, videos and audio files directly in the website.
 
 The app runs locally and no logs are sent or stored anywhere.
 
